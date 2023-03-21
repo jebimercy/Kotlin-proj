@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1267f210-0f6d-47c9-b1a9-2d1b5722fcbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex_whenstatement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/do_while.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/when_statement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/while_loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex_fuction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -35,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/IdeaProjects/Mrng_Intro&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/emobilis/PycharmProjects/pythonmercy"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.Do_whileKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Ex_fuctionKt">
     <configuration name="Do_whileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Do_whileKt" />
       <module name="Mrng_Intro" />
@@ -51,22 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_whenstatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_whenstatementKt" />
+    <configuration name="Ex_fuctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_fuctionKt" />
       <module name="Mrng_Intro" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Saf_comKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Saf_comKt" />
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
       <module name="Mrng_Intro" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="When_statementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="When_statementKt" />
+    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
       <module name="Mrng_Intro" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex_fuctionKt" />
+        <item itemvalue="Kotlin.VariablesKt" />
+        <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.Do_whileKt" />
         <item itemvalue="Kotlin.While_loopKt" />
-        <item itemvalue="Kotlin.Ex_whenstatementKt" />
-        <item itemvalue="Kotlin.When_statementKt" />
-        <item itemvalue="Kotlin.Saf_comKt" />
       </list>
     </recent_temporary>
   </component>
